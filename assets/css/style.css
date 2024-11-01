@@ -1391,7 +1391,7 @@ h6 {
 }
 
 .revenue-card .card-body{
-  background-image: url("/assets/img/icons/line-chart.svg");
+  background-image: url("../assets/img/icons/line-chart.svg");
   background-position: 15% center;
   background-repeat: no-repeat;
   background-size: 90% 90%;
