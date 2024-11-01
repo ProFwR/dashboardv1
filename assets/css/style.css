@@ -1018,7 +1018,7 @@ h6 {
   height: 174px;
   border: none;
   border-radius: 15px;
-  background-image: url('https://profwr.github.io/Dashboard/assets/img/userBackgroumd.jpg');
+  background-image: url('https://profwr.github.io/dashboardv1/assets/img/userBackgroumd.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   
@@ -1391,7 +1391,7 @@ h6 {
 }
 
 .revenue-card .card-body{
-  background-image: url("../assets/img/icons/line-chart.svg");
+  background-image: url("https://profwr.github.io/dashboardv1/assets/img/icons/line-chart.svg");
   background-position: 15% center;
   background-repeat: no-repeat;
   background-size: 90% 90%;
@@ -1477,7 +1477,7 @@ h6 {
 }
 
 .Storage-card .card-body{
-  background-image: url("/assets/img/icons/storageBar.svg");
+  background-image: url("https://profwr.github.io/dashboardv1//img/icons/storageBar.svg");
   background-position: center 605%;
   background-repeat: no-repeat;
 }
